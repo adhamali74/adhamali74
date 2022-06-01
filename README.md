@@ -9,6 +9,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhamali74&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhamali74&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adhamali74&theme=monokai&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhamali74&theme=monokai)
 
 
 
